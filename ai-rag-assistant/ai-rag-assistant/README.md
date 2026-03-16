@@ -1,41 +1,47 @@
-# AI Knowledge Retrieval Assistant using Endee Vector Database
+# AI Knowledge Retrieval Assistant using Endee
 
 ## Project Overview
-This project demonstrates a simple AI assistant that retrieves relevant knowledge using vector similarity search.
-
-The system converts user queries into vector embeddings and finds the most similar document from a knowledge base.
+This project demonstrates a simple AI assistant that performs semantic search using vector embeddings. 
+The assistant retrieves the most relevant information from a knowledge base based on user queries.
 
 ## Use Case
-This type of system is used in:
+This system demonstrates concepts used in modern AI applications such as:
 
-- AI chatbots
-- Semantic search systems
+- Semantic Search
 - Retrieval Augmented Generation (RAG)
-- Knowledge assistants
+- AI Knowledge Assistants
+- Chatbots
 
 ## System Design
 
 User Query
-   ↓
-Convert query into vector embedding
-   ↓
-Search similar vectors
-   ↓
-Retrieve most relevant document
-   ↓
-Return answer to user
+    ↓
+Convert query to vector embedding
+    ↓
+Similarity search
+    ↓
+Retrieve most relevant knowledge
+    ↓
+Return response to user
 
 ## Technologies Used
 
 - Python
 - Sentence Transformers
-- Vector similarity search
-- Endee vector database concept
+- Vector embeddings
+- Semantic search
+
+## Project Structure
+
+ai-rag-assistant/
+    app.py
+    knowledge_base.txt
+    requirements.txt
+    README.md
 
 ## Setup Instructions
 
 1. Install Python
-
 2. Install dependencies
 
 pip install -r requirements.txt

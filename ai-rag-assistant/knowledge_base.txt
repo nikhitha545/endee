@@ -11,3 +11,16 @@ Cloud computing is the delivery of computing services over the internet.
 APIs allow different software systems to communicate with each other.
 
 Data science involves extracting insights from data using statistics and machine learning.
+Artificial Intelligence is the simulation of human intelligence in machines.
+
+Python is a programming language widely used in AI, machine learning, and data science.
+
+Machine Learning is a subset of AI that allows computers to learn from data.
+
+Deep Learning is a type of machine learning based on neural networks.
+
+Vector databases store embeddings to enable semantic search.
+
+Endee is a high-performance vector database used for AI search and RAG systems.
+
+Retrieval Augmented Generation (RAG) combines retrieval systems with language models.

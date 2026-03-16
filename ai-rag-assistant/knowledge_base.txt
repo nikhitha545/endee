@@ -1,0 +1,13 @@
+Java is a programming language used to build applications.
+
+Python is a programming language widely used for artificial intelligence and data science.
+
+Artificial Intelligence is the simulation of human intelligence in machines.
+
+Machine learning is a subset of AI where systems learn patterns from data.
+
+Cloud computing is the delivery of computing services over the internet.
+
+Data science involves extracting insights from data using statistics and machine learning.
+
+APIs allow different software systems to communicate with each other.
